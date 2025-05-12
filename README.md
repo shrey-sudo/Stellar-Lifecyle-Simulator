@@ -24,3 +24,9 @@ The **Stellar Lifecycle Simulator** is an interactive program that visualizes th
 2. Install the required library using pip:
    ```bash
    pip install pygame
+  Collaborators
+[Shrey Sudo]
+[eshaan-27]
+
+License
+This project is licensed under the MIT License.
