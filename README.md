@@ -18,7 +18,7 @@ This project simulates the life cycle of stars based on their initial mass. It c
 
 - Python 3.x
 - `pygame` library
-- `tkinter` (comes pre-installed with Python)
+- `tkinter` 
 
 ## Installation
 
